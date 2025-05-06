@@ -1,4 +1,4 @@
-KNOBZ by Eating Voltage
+# KNOBZ by Eating Voltage
 
 0.6 HW Prototype
 
